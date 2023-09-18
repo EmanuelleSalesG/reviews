@@ -11,3 +11,5 @@ This repository contains the source code for a simple reviews website. The websi
 - `styles.css`: The CSS file responsible for the visual styling of the webpage.
 - `app.js`: The JavaScript file that handles the dynamic functionality of the webpage.
 - `README.md`: This file, providing information about the project.
+
+Based on Free code camp.
