@@ -10,4 +10,4 @@ This repository contains the source code for a simple reviews website. The websi
 - `index.html`: The main HTML file that structures the webpage.
 - `styles.css`: The CSS file responsible for the visual styling of the webpage.
 - `app.js`: The JavaScript file that handles the dynamic functionality of the webpage.
--`README.md`: This file, providing information about the project.
+- `README.md`: This file, providing information about the project.
